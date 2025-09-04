@@ -3,3 +3,8 @@
 [FBAN/FB4A;FBAV/525.0.0.53.51;FBBV/464014627;FBDM/{density=1.5,width=480,height=854};FBLC/es_LA;FBCR/Claro;FBMF/ZTE;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/Blade A460;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/525.0.0.53.51;FBBV/464014627;FBDM/{density=1.5,width=540,height=888};FBLC/en_GB;FBCR/airtel;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LG-D690;FBSV/5.0.2;nullFBCA/armeabi-v7a:armeabi;]
 [FBAN/FB4A;FBAV/525.0.0.53.51;FBBV/464014627;FBDM/{density=1.5,width=540,height=960};FBLC/es_ES;FBCR/VIVA;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J200M;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/525.0.0.53.51;FBBV/464014627;FBDM/{density=1.5,width=540,height=960};FBLC/vi_VN;FBCR/VNM and VIETTEL;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-A300H;FBSV/5.0.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/525.0.0.53.51;FBBV/464014627;FBDM/{density=2.0,width=720,height=1184};FBLC/es_LA;FBCR/Claro;FBMF/HUAWEI;FBBD/Huawei;FBPN/com.facebook.katana;FBDV/ALE-L23;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/525.0.0.53.51;FBBV/464014627;FBDM/{density=2.0,width=720,height=1200};FBLC/es_LA;FBCR/movistar;FBMF/LGE;FBBD/lge;FBPN/com.facebook.katana;FBDV/LG-H635;FBSV/5.0.2;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/525.0.0.53.51;FBBV/464014627;FBDM/{density=2.0,width=720,height=1280};FBLC/en_GB;FBCR/IDEA;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J700F;FBSV/5.1.1;nullFBCA/armeabi-v7a:armeabi;]
+[FBAN/FB4A;FBAV/525.0.0.53.51;FBBV/464014627;FBDM/{density=2.0,width=720,height=1280};FBLC/en_US;FBCR/Airtel;FBMF/LENOVO;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/Lenovo A7000-a;FBSV/5.0;nullFBCA/armeabi-v7a:armeabi;]
